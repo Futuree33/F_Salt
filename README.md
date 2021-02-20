@@ -1,7 +1,7 @@
 # F_Salt (Wrote this cause bored)
 
 - No need to store the salt
-- ** do not use this for comercial use **
+- **do not use this for comercial use**
 
 ## Usage 
 - hashing info with salt
