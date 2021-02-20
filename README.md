@@ -1,6 +1,5 @@
 # F_Salt (Wrote this cause bored)
 
-## Main
 - Good for storing NON PERSONAL INFO 
 - **i would not recommended using this for storing personal info**
 
