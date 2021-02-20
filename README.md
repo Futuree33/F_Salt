@@ -1,7 +1,6 @@
 # F_Salt (Wrote this cause bored)
 
-- Good for storing NON PERSONAL INFO 
-- **i would not recommended using this for storing personal info**
+- dont use this 
 
 ## How it works
 - adds the second char to the string then multiplys the lenght of the string by pi and adds the second char again 
