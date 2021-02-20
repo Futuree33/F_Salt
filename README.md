@@ -15,7 +15,7 @@ unset($algo);
 $algo = new F_Salt();
 if($algo::verf_inf("the algo", "the info", "the hash") == true)
 {
-	// valid 
+   // valid 
 }
 else 
 {
