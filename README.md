@@ -1,7 +1,7 @@
 # F_Salt (Wrote this cause bored)
 
 - adds the second char to the string then multiplys the lenght of the string by pi and adds the second char again 
-- - salt will change depending on the lenght of the string (this means you can hash with md5 with the shortest things like "hello" and it will be a little more secure)
+- salt will change depending on the lenght of the string (this means you can hash with md5 with the shortest things like "hello" and it will be a little more secure)
 - No need to store the salt
 - **i would not recommended using this**
 
